@@ -11,8 +11,6 @@ from utils.mailman import mailman
 
 import shutil
 
-# from model.AllInOneSR import *
-
 from visualization import plot_pcd_one_view
 
 def get_data_iterator(iterable):
