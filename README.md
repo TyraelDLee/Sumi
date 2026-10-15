@@ -1,2 +1,0 @@
-# Sumi
-Code coming soon.
